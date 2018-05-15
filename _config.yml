@@ -45,3 +45,6 @@ theme: jekyll-theme-slate
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+gems:
+  - jekyll-avatar
