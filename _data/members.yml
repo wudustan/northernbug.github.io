@@ -1,16 +1,16 @@
-- name: Matthew Parker
-  github: mattdmem
-  institute: Sheffield University Bioinformatics Core
-  email: matthew.paker@sheffield.ac.uk
-  website: http://sbc.shef.ac.uk/
-  twitter: bioinfomatt
-
 - name: John Davey
   github: johnomics
   institute: York University Bioinformatics Core
   email: john.davey@york.ac.uk
   website: https://www.york.ac.uk/biology/technology-facility/genomics/
   twitter:
+
+- name: Matthew Parker
+  github: mattdmem
+  institute: Sheffield University Bioinformatics Core
+  email: matthew.paker@sheffield.ac.uk
+  website: http://sbc.shef.ac.uk/
+  twitter: bioinfomatt
 
 - name: Dennis Wang
   github: TransAnalytics
@@ -25,3 +25,10 @@
   email: m.j.dunning@sheffield.ac.uk
   website: http://sbc.shef.ac.uk/
   twitter:
+
+- name: Lizzy Sollars
+  github: lsollars
+  institute: Sheffield Diagnostic Genetics Service
+  email: elizabeth.sollars@sch.nhs.uk
+  website: http://sdgs.org/
+  twitter: LizzySollars
