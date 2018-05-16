@@ -12,8 +12,7 @@ permalink: northernbug2
 # General
 
 The [Sheffield Bioinformatics Core](http://sbc.shef.ac.uk/) are excited to host the 2nd
-NorthernBUG meeting. We'll have 6 short talks, 3 from students and 3 from other BUG memebers. A talk hopefully from
-Microsoft on their Azure platform and doing bioinformatics in the cloud and one from the peolle at ELIXIR.
+NorthernBUG meeting. We'll have 6 short talks, 3 from students and 3 from other BUG memebers. Hopefully there will be a talk from sponsored speaker, one application talk and one *keynote* talk.
 
 We will have a form soon to register your interest in doing a talk.
 
