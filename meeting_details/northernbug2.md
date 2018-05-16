@@ -4,7 +4,7 @@ author: Mark Dunning, Matthew Parker, Dennis Wang
 title: NorthernBUG 2
 date: 14th September 2018
 institute: The University of Sheffield
-postcode: S10 2HQ
+postcode: S102HQ
 address: SiTRAN, University of Sheffield, 385a Glossop Rd, Sheffield S10 2HQ
 permalink: northernbug2
 ---

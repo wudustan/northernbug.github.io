@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
 ## Website Updates
 We encourage community participation in the administration of NorthernBUG 
 so please feel free to submit pull requests to add yourself to the members 
@@ -35,6 +41,7 @@ Each entry should look like this (if you don't have github please omit that line
   email: matthew.parker@sheffield.ac.uk
   website: http://sbc.shef.ac.uk/
   twitter: bioinfomatt
+  interests: Clinical Bioinfromatics, Cancer, Variant Calling, Structural Variants
 ```
 
 ### Adding/Editing Meetings

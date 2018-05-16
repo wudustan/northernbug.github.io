@@ -41,6 +41,7 @@ Each entry should look like this (if you don't have github please omit that line
   email: matthew.parker@sheffield.ac.uk
   website: http://sbc.shef.ac.uk/
   twitter: bioinfomatt
+  interests: Clinical Bioinfromatics, Cancer, Variant Calling, Structural Variants
 ```
 
 ### Adding/Editing Meetings

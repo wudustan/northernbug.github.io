@@ -4,7 +4,7 @@ author: John Davey
 title: NorthernBUG 1
 date: 14th May 2018
 institute: The University of York
-postcode: YO1 7EP
+postcode: YO17EP
 address: Kings Manor and Principals House, University of York, Exhibition Square, York YO1 7EP
 permalink: northernbug1
 ---
