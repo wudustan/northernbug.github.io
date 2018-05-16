@@ -94,3 +94,11 @@ permalink: <FILENAME_WITHOUT_.md>
 # Attendees
 
 ```
+
+
+### Meeting Sign-Up
+Meeting sign-up is powered by google forms. We have just hijacked the names
+of fields and the action to create our own form. Responses go into a google sheet.
+
+Once a meeting registration is closed we will create a new tab and preserve the
+sign-up list from previous meetings in their own tabs.

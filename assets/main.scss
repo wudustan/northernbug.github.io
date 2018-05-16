@@ -4,7 +4,7 @@
 
 @import "minima";
 
-input[type=text] {
+input[type=text],textarea {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -15,16 +15,6 @@ input[type=text] {
   font-size:18px;
 }
 
-textarea {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-    border: none;
-    background-color: #f4f4f4;
-    color: black;
-  font-size:18px;
-}
 
 input[type=email] {
     width: 100%;
