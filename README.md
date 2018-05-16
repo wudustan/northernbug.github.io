@@ -1,16 +1,8 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: ReadMe
+permalink: /readme/
 ---
-
-## Website Updates
-We encourage community participation in the administration of NorthernBUG 
-so please feel free to submit pull requests to add yourself to the members 
-page, make a post, add your meeting etc.
-
-Fork this repository to get started:
-https://github.com/NorthernBUG/northernbug.github.io.git
 
 ### Adding a Post
 Add a new markdown file in the `_posts` directory with the filename in the format:
