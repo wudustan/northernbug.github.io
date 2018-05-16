@@ -1,5 +1,7 @@
 ---
 layout: post
+author: Matthew Parker
+title: Next Meeting - Sheffield 14th September 2018
 ---
 
 The next meeting is on 14th September 2018. The tentative format for the meeting is as follows:

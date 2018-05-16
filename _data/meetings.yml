@@ -1,0 +1,31 @@
+- meeting: NorthernBUG|1
+  theme: Inaugral Meeting
+  month: May
+  day: 14
+  year: 2018
+  institute: University of York
+  city: York
+
+- meeting: NorthernBUG|2
+  theme: Clinical Bioinformatics
+  month: September
+  day: 14
+  year: 2018
+  institute: University of Sheffield
+  city: Sheffield
+
+- meeting: NorthernBUG|3
+  theme: TBD
+  month: January
+  day: TBD
+  year: 2019
+  institute: Newcastle University
+  city: Newcastle
+
+- meeting: NorthernBUG|4
+  theme: TBD
+  month: April
+  day: TBD
+  year: 2019
+  institute: TBD
+  city: TBD

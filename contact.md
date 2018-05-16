@@ -4,15 +4,57 @@ title: Contact
 permalink: /contact/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Website Updates
+We encourage community participation in the administration of NorthernBUG 
+so please feel free to submit pull requests to add yourself to the members 
+page, make a post, add your meeting etc.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Fork this repository to get started:
+https://github.com/NorthernBUG/northernbug.github.io.git
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Adding a Post
+Add a new markdown file in the `_posts` directory with the filename in the format:
 
+```
+YYYY-MM-DD-quick-title.md
+```
 
-[jekyll-organization]: https://github.com/jekyll
+The 1st few lines of the page should be like this:
+```
+---
+layout: post
+author: <AUTHOR_NAME>
+title: <DISPLAYED_TITLE>
+---
+```
+
+### Adding/Editing Members
+In the `_data` directory you will find a `members.yml` file. Simply add a new entry
+using the existing ones as a template or mke edits as required.
+
+Each entry should look like this:
+
+```
+- name: Matthew Parker
+  github: mattdmem
+  institute: Sheffield University Bioinformatics Core
+  email: matthew.paker@sheffield.ac.uk
+  website: http://sbc.shef.ac.uk/
+```
+
+### Adding/Editing Meetings
+In the `_data` directory you will find a `metings.yml` file. Simply add a new entry
+using the existing ones as a template or mke edits as required. Meetings are automatically
+displayed in the "Past" section if the date of the meeting was before todays date.
+
+Each entry should look like this:
+
+```
+- meeting: NorthernBUG|2
+  theme: Clinical Bioinformatics
+  month: September
+  day: 14
+  year: 2018
+  institute: University of Sheffield
+  city: Sheffield
+```

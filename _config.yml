@@ -1,15 +1,14 @@
 title: NorthernBUG
-author: GitHub User
-email: your-email@domain.com
+# author: GitHub User
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A network of bioinformaticians and users or bioinformatics services in the north of England. Inspired by NextGenBUG
+  we hold quarterly meetings to build a community of researchers and others using big data in biology.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+# twitter_username: jekyllrb
+github_username:  NorthernBUG
+# rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -18,6 +17,7 @@ rss: rss
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
+googlegroups_username: northern-bug
 
 # Mastodon instances
 # mastodon:
@@ -27,7 +27,7 @@ rss: rss
 #   instance: example.com
 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -40,11 +40,9 @@ minima:
 # - about.html
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-
-gems:
-  - jekyll-avatar
+ - jekyll-avatar
