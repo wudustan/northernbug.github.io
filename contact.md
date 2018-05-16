@@ -32,7 +32,7 @@ title: <DISPLAYED_TITLE>
 In the `_data` directory you will find a `members.yml` file. Simply add a new entry
 using the existing ones as a template or mke edits as required.
 
-Each entry should look like this:
+Each entry should look like this (if you don't have github please omit that line):
 
 ```
 - name: Matthew Parker
