@@ -24,7 +24,7 @@ title: <DISPLAYED_TITLE>
 
 ### Adding/Editing Members
 In the `_data` directory you will find a `members.yml` file. Simply add a new entry
-using the existing ones as a template or mke edits as required.
+using the existing ones as a template or make edits as required.
 
 Each entry should look like this (if you don't have github please omit that line):
 
@@ -32,15 +32,15 @@ Each entry should look like this (if you don't have github please omit that line
 - name: Matthew Parker
   github: mattdmem
   institute: Sheffield University Bioinformatics Core
-  email: matthew.paker@sheffield.ac.uk
+  email: matthew.parker@sheffield.ac.uk
   website: http://sbc.shef.ac.uk/
   twitter: bioinfomatt
 ```
 
 ### Adding/Editing Meetings
-In the `_data` directory you will find a `metings.yml` file. Simply add a new entry
-using the existing ones as a template or mke edits as required. Meetings are automatically
-displayed in the "Past" section if the date of the meeting was before todays date.
+In the `_data` directory you will find a `meetings.yml` file. Simply add a new entry
+using the existing ones as a template or make edits as required. Meetings are automatically
+displayed in the "Past" section if the date of the meeting was before today's date.
 
 Each entry should look like this:
 
