@@ -39,7 +39,11 @@ We will upload presentations here:
 {% capture current_date %}{{ site.time | date: '%Y-%B-%d' }}{% endcapture %}
 {% if event_date > current_date %}
 <tr>
+{% if meeting.page %}
+<td><a href="/{{meeting.page}}">{{ meeting.meeting }}</a></td>
+{% else %}
 <td>{{ meeting.meeting }}</td>
+{% endif %}
 <td>{{ meeting.theme }}</td>
 <td>{{ meeting.day }} {{ meeting.month }} {{ meeting.year }}</td>
 <td>{{ meeting.institute }}</td>
@@ -69,7 +73,11 @@ We will upload presentations here:
 {% capture current_date %}{{ site.time | date: '%Y-%B-%d' }}{% endcapture %}
 {% if event_date < current_date %}
 <tr>
+{% if meeting.page %}
+<td><a href="/{{meeting.page}}">{{ meeting.meeting }}</a></td>
+{% else %}
 <td>{{ meeting.meeting }}</td>
+{% endif %}
 <td>{{ meeting.theme }}</td>
 <td>{{ meeting.day }} {{ meeting.month }} {{ meeting.year }}</td>
 <td>{{ meeting.institute }}</td>

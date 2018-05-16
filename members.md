@@ -20,7 +20,8 @@ permalink: /members/
       {% else %}
         <img src="/assets/no-github.png"><br>
       {% endif %}
-      <strong>{{ member.name }}</strong><br>
+      <strong>{{ member.name }}</strong>
+      <p class="post-meta">{{ member.interests }}</p>
       {{ member.institute }}<br>
       {{ member.email }}<br>
       <a href="{{member.website}}">web</a> | <a href="https://twitter.com/{{member.twitter}}">twitter</a>

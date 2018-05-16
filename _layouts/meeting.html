@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+
+<h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+  <ul>
+  <li><strong>Date:</strong> {{ page.date }}</li>
+  <li><strong>Location:</strong> {{ page.institute }}</li>
+  <li><strong>Host:</strong> {{ page.author }}</li>
+  </ul>
+
+    {{ content }}
+    <h1>Location</h1>
+    <p>{{page.address}}</p>
+    <iframe frameBorder="0" src="http://maps.google.co.uk/maps?q={{ page.postcode }}&output=embed" width="500"
+            height="500"></iframe>
+
+
+
+<a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
+

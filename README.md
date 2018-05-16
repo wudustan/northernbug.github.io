@@ -1,5 +1,3 @@
-# NorthernBUG
-
 ## Website Updates
 We encourage community participation in the administration of NorthernBUG 
 so please feel free to submit pull requests to add yourself to the members 
@@ -36,6 +34,7 @@ Each entry should look like this (if you don't have github please omit that line
   institute: Sheffield University Bioinformatics Core
   email: matthew.paker@sheffield.ac.uk
   website: http://sbc.shef.ac.uk/
+  twitter: bioinfomatt
 ```
 
 ### Adding/Editing Meetings
@@ -53,4 +52,38 @@ Each entry should look like this:
   year: 2018
   institute: University of Sheffield
   city: Sheffield
+```
+
+### Adding/Editing A Meeting Page
+Add a page in the format `northernbug2.md` to the folder `meeting_details`this should have the following format:
+
+```
+---
+layout: meeting
+author: <MEETING_HOSTS>
+title: <MEETING_TITLE>
+date: <DATE>
+institute: <INSTITUTE>
+postcode: <VENUE_POSTCODE>
+address: <FULL_VENUE_ADDRESS>
+permalink: <FILENAME_WITHOUT_.md> 
+---
+
+# General
+
+# Agenda
+
+| Time          | Speaker        | Presentation | Information |
+|---------------|----------------|--------------|-------------|
+| 12:00-13:00   | Lunch          |              |             |
+| 13:00-14:30   | Session 1      |              |             |
+| 14:30-15:00   | Coffee         |              |             |
+| 15:00-16:00   | Session 2      |              |             |
+| 16:00-17:00   | Discussion/Pub |              |             |
+
+
+# Registration
+
+# Attendees
+
 ```
