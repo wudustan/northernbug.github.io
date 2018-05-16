@@ -38,7 +38,7 @@ Each entry should look like this (if you don't have github please omit that line
 - name: Matthew Parker
   github: mattdmem
   institute: Sheffield University Bioinformatics Core
-  email: matthew.paker@sheffield.ac.uk
+  email: matthew.parker@sheffield.ac.uk
   website: http://sbc.shef.ac.uk/
   twitter: bioinfomatt
 ```
