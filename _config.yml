@@ -27,6 +27,8 @@ googlegroups_username: northern-bug
 #   instance: example.com
 
 
+google_analytics: UA-119339216-1
+
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
