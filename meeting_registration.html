@@ -1,8 +1,25 @@
 ---
 layout: default
+meeting: NorthernBUG 2
 ---
 
-<form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLSfcisj4m3lb_VLwwVFT1ZilZ1peerzs4abTsCp5iLL9y56Lug/formResponse">
+<!--
+ This form uses google forms
+ It's pretty easy:
+ - create the google form
+ - view the google form in entry mode
+ - inspect the fields and get the name - entry.XXXXXXX
+ - inspect and get the form action
+ - this happens in an inframe and redirects to submitted.html
+ -->
+
+<h1>Meeting Registration Sign-Up Form</h1>
+<h3><strong>Meeting:</strong> {{ page.meeting }}</h3>
+
+<script type="text/javascript">var submitted=false;</script>
+ <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='/submitted';}"></iframe>
+
+<form class="form" target="hidden_iframe" onsubmit="submitted=true;" action="https://docs.google.com/forms/d/e/1FAIpQLSfcisj4m3lb_VLwwVFT1ZilZ1peerzs4abTsCp5iLL9y56Lug/formResponse">
 
       <label>Name</label>
       <input name="entry.128836778" type="text" />
@@ -10,15 +27,29 @@ layout: default
       <label>Email</label>
       <input name="emailAddress" type="email" required />
 
+      <label>Are you a student?</label><br>
+      <label class="container">Yes
+      <input type="radio" name="entry.750803095" value="Yes">
+        <span class="checkmark"></span>
+      </label>
+      <label class="container">No
+      <input type="radio" checked="checked" name="entry.750803095" value="No">
+        <span class="checkmark"></span>
+        </label>
+
+
+
       <label>Institute</label>
       <input name="entry.763118794" type="text" required />
 
       <label>City</label>
       <input name="entry.340491097" type="text" required />
 
-      <label>Dietary Requirements</label>
+      <label>Dietary requirements</label>
       <input name="entry.1598531525" type="text" required />
 
-      <input type="submit" value="Send" />
+      <label>If you would like to give a talk please give details below:</label>
+      <textarea name="entry.1402070781"></textarea>
+      <input type="submit" value="Register" />
 
 </form>

@@ -30,4 +30,4 @@ We will have a form soon to register your interest in doing a talk.
 
 # Registration
 
-We will have a registration form available soon!
+Registration is available [here](/meeting_registration)
