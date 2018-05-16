@@ -23,7 +23,7 @@ permalink: /members/
       <strong>{{ member.name }}</strong><br>
       {{ member.institute }}<br>
       {{ member.email }}<br>
-      <a href="{{member.website}}">web</a> | twitter
+      <a href="{{member.website}}">web</a> | <a href="https://twitter.com/{{member.twitter}}">twitter</a>
     </td>
     {% if modulo == '0' or forloop.last %}
       </tr>

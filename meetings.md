@@ -4,8 +4,22 @@ title: Meetings
 permalink: /meetings/
 ---
 
+Our meetings are based on the format pioneered by [NextGenBUG](http://nextgenbug.org).
 
-# Future Meetings
+NorthernBUG meetings are open to **anyone** interested in bioinformatics or its application
+in life science research and beyond. **Meetings are free** and costs covered
+by the host instititution. We encourage researchers in the early stages of their career
+to attend and present their work. It's a great forum to practice your talks, float new ideas and approcahes, and
+present early work.
+
+We welcome research presentations from industry or commercial attendees, sponsorship is also welcome.
+
+We start meetings with a free lunch, we have two sessions with coffee somewhere in the middle. Refreshments
+afterwards are served in a local pub.
+
+We will upload presentations here:
+
+# Upcoming Meetings
 
 <table>
 <thead>
