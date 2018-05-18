@@ -4,6 +4,7 @@ title: Members
 permalink: /members/
 ---
 
+Please add yourself to this page! Either [sign up here](meeting_registration.html), or fork the repository, edit `_data/members.yml` and submit a pull request.
 
 ## Current Members
 
