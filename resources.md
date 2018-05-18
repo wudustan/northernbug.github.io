@@ -4,8 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
-# Bioiformatics Core Facilities
+# Bioinformatics Core Facilities
 
-* [Sheffield Bioinformatics Core](sbc.shef.ac.uk)
+* [Sheffield Bioinformatics Core](http://sbc.shef.ac.uk)
 
 
