@@ -14,4 +14,6 @@ More information can be found [here](/readme) and on github.
 Fork this repository to get started:
 https://github.com/NorthernBUG/northernbug.github.io.git
 
+If you have any questions please email [Matthew Parker - matthew.parker@sheffield.ac.uk](mailto:matthew.parker@sheffield.ac.uk)
+
 
