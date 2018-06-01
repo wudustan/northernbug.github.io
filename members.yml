@@ -1,0 +1,110 @@
+- name: John Davey
+  github: johnomics
+  institute: York University Bioinformatics Core
+  email: john.davey@york.ac.uk
+  website: https://www.york.ac.uk/biology/technology-facility/genomics/
+  twitter: johnomics
+
+- name: Matthew Parker
+  github: mattdmem
+  institute: Sheffield Bioinformatics Core
+  email: matthew.parker@sheffield.ac.uk
+  website: http://sbc.shef.ac.uk/
+  twitter: bioinfomatt
+  interests: Clinical Bioinfromatics, Cancer, Variant Calling, Structural Variants
+
+- name: Dennis Wang
+  github: TransAnalytics
+  institute: Sheffield Bioinformatics Core
+  email: dennis.wang@sheffield.ac.uk
+  website: http://sbc.shef.ac.uk/
+  twitter:
+
+- name: Mark Dunning
+  github: markdunning
+  institute: Sheffield Bioinformatics Core
+  email: m.j.dunning@sheffield.ac.uk
+  website: http://sbc.shef.ac.uk/
+  twitter: DrMarkDunning
+  interests: Bioconductor, R, RNA-seq, Training
+
+- name: Lizzy Sollars
+  github: lsollars
+  institute: Sheffield Diagnostic Genetics Service
+  email: elizabeth.sollars@sch.nhs.uk
+  website: https://www.sheffieldchildrens.nhs.uk/sdgs/
+  twitter: LizzySollars
+
+- name: Matthew Bashton
+  github: Northern Institute for Cancer Research - Newcastle University
+  email: matthew.bashton@newcastle.ac.uk
+  website: https://www.ncl.ac.uk/nicr/staff/profile/matthewbashton.html
+  twitter: MattBashton
+  interests: Cancer genomics, Protein Domain Evolution
+
+- name: Simon Cockell
+  github: sjcockell
+  institute: Newcastle University Bioinformatics Support Unit
+  email: simon.cockell@newcastle.ac.uk
+  website: http://www.ncl.ac.uk/bsu
+  twitter: sjcockell
+
+- name: Bede Constantinides
+  github: bede
+  institute: University of Leeds
+  email: b.constantinides@leeds.ac.uk
+  website: http://mol-evol.org
+  twitter: beconstant
+  interests: Phylogeny, Virome, Literature mining
+
+- name: Katherine Newling
+  institute: University of York
+  email: katherine.newling@york.ac.uk
+  website: https://www.york.ac.uk/biology/technology-facility/genomics/
+  twitter: katherinenewlin
+
+- name: James Chong
+  institute: University of York
+  email: james.chong@york.ac.uk
+  website: https://sites.google.com/a/york.ac.uk/chonglab/
+  twitter: insanityone
+  interests: Anaerobic microbial meta-omics, nanopore sequencing
+
+- name: Roxana Teodor
+  institute: University of York
+  email: roxana.teodor@york.ac.uk
+  website: https://www.york.ac.uk/biology/itsupport/cfm/post_doc/profile.cfm?ID=475
+  twitter: roxana_teodor
+  interests: Genomics
+
+- name: Maria Luisa Martin Cerezo
+  github: Marisa89
+  institute: University of Huddersfield
+  email: marialuisa.martin@hud.ac.uk
+  twitter: Marisamartin89
+  interests: Zoology, genomics and adaptation
+
+- name: Helen Griffin
+  institute: Newcastle University
+  email: helen.griffin@ncl.ac.uk
+
+- name: Matthew Teasdale
+  github: teasdalm
+  institute: University of York
+  email: marialuisa.martin@hud.ac.uk
+  twitter: teasdalm
+  interests: Genomics, ancient DNA
+
+- name: Roy Chaudhuri
+  institute: University of Sheffield
+  email: r.chaudhuri@shef.ac.uk
+  twitter: roychaudhuri
+  interests: Microbial Genomics
+  website: https://www.sheffield.ac.uk/mbb/staff/roychaudhuri
+
+- name: Yura Grabovska
+  github: wudustan
+  institute: Northern Institute for Cancer Research
+  email: yura.grabovska@newcastle.ac.uk
+  interests: Cancer, Microarrays, RNA-Seq, WGS, WES, Machine learning, Unsupervised clustering
+
