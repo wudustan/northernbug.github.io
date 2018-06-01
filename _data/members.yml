@@ -95,4 +95,9 @@
   interests: Microbial Genomics
   website: https://www.sheffield.ac.uk/mbb/staff/roychaudhuri
 
+- name: Yura Grabovska
+  github: wudustan
+  institute: Northern Institute for Cancer Research
+  email: yura.grabovska@newcastle.ac.uk
+  interests: Cancer, Microarrays, RNA-Seq, WGS, WES, Machine learning, Unsupervised clustering
 
