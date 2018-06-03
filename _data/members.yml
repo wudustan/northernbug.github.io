@@ -106,7 +106,7 @@
   email: jmrobinson3@sheffield.ac.uk
   interests: Ecology, microbiome dynamics, genomics, R, 3D modelling
   twitter: _jake_robinson
-  
+
 - name: Matthew Bashton
   institute: Northern Institute for Cancer Research
   email: 	matthew.bashton@gmail.com
@@ -126,3 +126,16 @@
   twitter: AlexeiA7X
   email: a.newman2@newcastle.ac.uk
   interests: Cancer, Paediatrics, Lymphoma, Copy Number Analysis, Exome Sequencing, RNA-Seq
+
+- name: Jarek Bryk
+  institute: University of Huddersfield
+  email: 	j.bryk@hud.ac.uk
+  website: 	bryklab.net
+  github: jarekbryk
+  interests: Evolutionary ecological genomics, scans for selection, Apodemus
+  twitter: jarekbryk
+
+- name: Mark Wilkinson
+  institute: University of Sheffield
+  email: 	j.m.wilkinson@sheffield.ac.uk
+  interests: Osteoarthritis genomics
