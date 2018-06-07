@@ -145,3 +145,16 @@
   email: 	anna.szczepanska@york.ac.uk
   interests: Metagenomics, nanopore seq, amplicon seq
   twitter: anna_alessi82
+
+- name: Christine Hicks
+  institute: Sheffield Children's Hospital - Sheffield Diagnostic Genetics Service
+  email: 	christine.hicks@sch.nhs.uk
+  github: bioinfochicks
+  interests: Bioinformatics, clinical genetics
+
+- name: Nichola Imeson
+  institute: Sheffield Children's Hospital - Sheffield Diagnostic Genetics Service
+  email: 	nichola.cooper@sch.nhs.uk
+  github: Sheffield Diagnostic Genetics Service
+  interests: Clinical bioinformatics, data sharing
+
