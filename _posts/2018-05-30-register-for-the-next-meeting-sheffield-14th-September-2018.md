@@ -10,7 +10,7 @@ The next meeting will be held in Sheffield on 14th September. Starting at
 Register [here](/meeting_registration)!
 
 We will have a talk from ELIXR about TeSS - their training platform. In additioned to
-a keynote speaker and s speaker from industry.
+a keynote speaker and a speaker from industry.
 
 Details can be found [here](/northernbug2).
 
