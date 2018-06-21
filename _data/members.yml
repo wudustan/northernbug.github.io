@@ -130,7 +130,7 @@
 - name: Jarek Bryk
   institute: University of Huddersfield
   email: 	j.bryk@hud.ac.uk
-  website: 	bryklab.net
+  website: 	http://bryklab.net
   github: jarekbryk
   interests: Evolutionary ecological genomics, scans for selection, Apodemus
   twitter: jarekbryk
@@ -167,5 +167,5 @@
 - name: John Walshaw
   institute: Fera Science Ltd
   email: john.walshaw@fera.co.uk
-  website: www.fera.co.uk
+  website: https://www.fera.co.uk
   interests: Bioinformatics for microbiology, microbiomes, metagenomics
