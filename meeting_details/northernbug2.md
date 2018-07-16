@@ -26,6 +26,11 @@ We will have a form soon to register your interest in doing a talk.
 | 15:00-16:00 | Session 2 | | |
 | 16:00-17:00 | Discussion/Pub | | [Roco](https://www.theroco.org/) - 342 Glossop Rd, Sheffield S10 2HW |
 
+# Speakers
+
+- [Chris Yau, University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/cancer-genomic/yau-christopher.aspx)
+- [Niall Beard, ELIXR TeSS](https://tess.elixir-europe.org/)
+
 
 # Registration
 
