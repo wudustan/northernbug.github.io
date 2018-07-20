@@ -30,11 +30,8 @@ We will have a form soon to register your interest in doing a talk.
 
 - [Chris Yau, University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/cancer-genomic/yau-christopher.aspx)
 
-> Logical Factorisation Machines - a family of Boolean logic
-models for high-dimensional binary data dimensionality reduction
-
-Abstract: Binary data are often treated as continuous measurements so
-that standard dimensionality reduction methods designed for continuous
+> **Logical Factorisation Machines - a family of Boolean logic
+models for high-dimensional binary data dimensionality reduction**  Abstract: Binary data are often treated as continuous measurements so that standard dimensionality reduction methods designed for continuous
 data can be applied. This results in ambiguous low-dimensional
 representations since the observations are binary but the reduced
 dimensional representation is continuous. An alternative in which the
