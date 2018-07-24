@@ -12,21 +12,25 @@ permalink: northernbug2
 # General
 
 The [Sheffield Bioinformatics Core](http://sbc.shef.ac.uk/) are excited to host the 2nd
-NorthernBUG meeting. We'll have 6 short talks, 3 from students and 3 from other BUG memebers. Hopefully there will be a talk from sponsored speaker, one application talk and one *keynote* talk.
-
-We will have a form soon to register your interest in doing a talk.
+NorthernBUG meeting.
 
 # Agenda
 
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
 | 12:00-13:00 | Lunch | | |
-| 13:00-14:30 | Session 1 | | |
+| 13:00-13:10 | Welcome and Introduction to Northern BUG | | |
+| 13:10-13:50 | Session 1 | | |
+| 13:50-14:20 | Niall Beard | | |
+| 14:20-14:30 | Discussion | | |
 | 14:30-15:00 | Coffee | | |
-| 15:00-16:00 | Session 2 | | |
-| 16:00-17:00 | Discussion/Pub | | [Roco](https://www.theroco.org/) - 342 Glossop Rd, Sheffield S10 2HW |
+| 15:00-15:30 | Session 2 | | |
+| 15:30-16:00 | Chris Yau | | |
+| 16:00-17:00 | Discussion/Pub | | [The University Arms](http://withus.com/hustleandbustle/university-arms-sheffield/) - 197 Brook Hill, Sheffield S3 7HG |
 
 # Speakers
+
+## Invited
 
 - [Chris Yau, University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/cancer-genomic/yau-christopher.aspx)
 
@@ -43,9 +47,27 @@ of LFMs, the properties that give rise to scalable computation and
 applications in single cell genomics for interpretable unravelling of
 latent expression pathways.
 
-
 - [Niall Beard, ELIXR TeSS](https://tess.elixir-europe.org/)
 
+## Accepted
+
+- Jamie Ellingford, University of Manchester
+
+- Nathan Wales, University of York
+
+## Student
+
+- Jacob Parker, University of Sheffield
+
+> Investigation into the tissue specific pathology of the autosomal recessive cerebellar ataxias
+
+- Georgette Tanner, University of Leeds
+
+> Simulation of Heterogeneous Tumour Genomes with HeteroGenesis and In Silico Whole Exome Sequencing
+
+- Yura Grabovska, University of Newcastle
+
+> Molecular sub-grouping of Malignant Rhabdoid Tumours
 
 # Registration
 
