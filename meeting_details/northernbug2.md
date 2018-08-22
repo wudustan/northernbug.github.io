@@ -55,6 +55,10 @@ latent expression pathways.
 
 > Uncovering pathogenic non-coding genomic variation through the UK 100,000 genomes project
 
+- Roy Chaudhuri, University of Sheffield
+
+> TraDIS and Dr Who?
+
 ## Student
 
 - Jacob Parker, University of Sheffield
