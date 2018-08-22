@@ -53,6 +53,8 @@ latent expression pathways.
 
 - Jamie Ellingford, University of Manchester
 
+> Uncovering pathogenic non-coding genomic variation through the UK 100,000 genomes project
+
 ## Student
 
 - Jacob Parker, University of Sheffield
