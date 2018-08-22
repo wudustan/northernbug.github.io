@@ -53,8 +53,6 @@ latent expression pathways.
 
 - Jamie Ellingford, University of Manchester
 
-- Nathan Wales, University of York
-
 ## Student
 
 - Jacob Parker, University of Sheffield
