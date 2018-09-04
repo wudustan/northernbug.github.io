@@ -26,7 +26,7 @@ NorthernBUG meeting.
 | 14:30-15:00 | Coffee | | |
 | 15:00-15:30 | Session 2 | | |
 | 15:30-16:00 | Chris Yau | | |
-| 16:00-17:00 | Discussion/Pub | | [The University Arms](http://withus.com/hustleandbustle/university-arms-sheffield/) - 197 Brook Hill, Sheffield S3 7HG |
+| 16:00-17:00 | Discussion/Pub | | [The Francis Newton](https://www.jdwetherspoon.com/pubs/all-pubs/england/south-yorkshire/the-francis-newton-sheffield) - Clarkehouse Road , Sheffield S10 2LA  |
 
 # Speakers
 
