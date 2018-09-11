@@ -24,12 +24,6 @@ NorthernBUG meeting.
 | 13:20-13:40 | Jamie Ellingford | Uncovering pathogenic non-coding genomic variation through the UK 100,000 genomes project | |
 | 13:40-13:50 | Georgette Tanner | Simulation of Heterogeneous Tumour Genomes with HeteroGenesis and In Silico Whole Exome Sequencing | |
 | 13:50-14:20 | Niall Beard | Elixr TeSS | |
-| 14:20-14:30 | All | Establishing a Northern Training Network | |
-| 14:30-15:00 | Coffee | | |
-| 15:00-15:20 | Roy Chauduri| TraDIS and Dr Who? | |
-| 15:20-15:30 | Yura Grabovska| Molecular sub-grouping of Malignant Rhabdoid Tumours | |
-| 15:30-16:00 | Chris Yau | Logical Factorisation Machines - a family of Boolean logic models for high-dimensional binary data dimensionality reduction | |
-| 16:00-17:00 | Discussion/Pub | Meeting format, and next venue. Addressing gender balance | [The Francis Newton](https://www.jdwetherspoon.com/pubs/all-pubs/england/south-yorkshire/the-francis-newton-sheffield) - Clarkehouse Road , Sheffield S10 2LA  |
 
 # Speakers
 
