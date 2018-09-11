@@ -83,4 +83,4 @@ latent expression pathways.
 
 # Registration
 
-Registration is available [here](/meeting_registration)
+Registration is now closed. Please contact bioinformatics-core@sheffield.ac.uk to check for spaces
