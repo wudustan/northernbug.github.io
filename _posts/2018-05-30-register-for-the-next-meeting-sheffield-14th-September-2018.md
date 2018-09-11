@@ -7,7 +7,7 @@ title: Register for NorthernBUG 2 - Sheffield 14th September 2018
 The next meeting will be held in Sheffield on 14th September. Starting at 
 12pm with lunch and finishinhg with a discussion at 4pm followed by the pub. 
 
-Register [here](/meeting_registration)!
+Registration is now closed. Please contact bioinformatics-core@sheffield.ac.uk to check for spaces
 
 We will have a talk from ELIXR about TeSS - their training platform. In additioned to
 a keynote speaker and a speaker from industry.
