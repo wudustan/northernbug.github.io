@@ -24,6 +24,8 @@ NorthernBUG meeting.
 | 13:20-13:40 | Jamie Ellingford | Uncovering pathogenic non-coding genomic variation through the UK 100,000 genomes project | |
 | 13:40-13:50 | Georgette Tanner | Simulation of Heterogeneous Tumour Genomes with HeteroGenesis and In Silico Whole Exome Sequencing | |
 | 13:50-14:20 | Niall Beard | Elixr TeSS | |
+| 14:20-14:30 | All | Establishing a Northern Training Network | |
+| 14:30-15:00 | Coffee | | |
 
 # Speakers
 
