@@ -33,7 +33,8 @@ NorthernBUG meeting at The Sheffield Institute for Translational Neuroscience on
 | 14:30-15:00 |  | Coffee | |
 | 15:00-15:20 | Roy Chaudhuri| TraDIS and Dr Who? | Chair: Dennis Wang|
 | 15:20-15:30 | Yura Grabovska| Molecular sub-grouping of Malignant Rhabdoid Tumours | |
-| 15:30-16:00 | Chris Yau | Logical Factorisation Machines - a family of Boolean logic models for high-dimensional binary data dimensionality reduction | |
+| 15:30-16:00 | Chris Yau | Scalable Bayesian Boolean Tensor
+Factorisation for Single Cell Genomics | |
 | 16:00-17:00 | | Discussion: Meeting format, next venue, addressing gender balance | [The Francis Newton](https://www.jdwetherspoon.com/pubs/all-pubs/england/south-yorkshire/the-francis-newton-sheffield) - Clarkehouse Road , Sheffield S10 2LA  |
 
 # Speakers
@@ -42,8 +43,8 @@ NorthernBUG meeting at The Sheffield Institute for Translational Neuroscience on
 
 - [Chris Yau, University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/cancer-genomic/yau-christopher.aspx)
 
-> **Logical Factorisation Machines - a family of Boolean logic
-models for high-dimensional binary data dimensionality reduction**  Abstract: Binary data are often treated as continuous measurements so that standard dimensionality reduction methods designed for continuous
+> **Scalable Bayesian Boolean Tensor
+Factorisation for Single Cell Genomics**  Abstract: Binary data are often treated as continuous measurements so that standard dimensionality reduction methods designed for continuous
 data can be applied. This results in ambiguous low-dimensional
 representations since the observations are binary but the reduced
 dimensional representation is continuous. An alternative in which the
