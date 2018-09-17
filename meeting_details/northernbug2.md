@@ -27,7 +27,7 @@ NorthernBUG meeting at The Sheffield Institute for Translational Neuroscience on
 | 13:00-13:10 | Mark Dunning | Welcome and Introduction to Northern BUG | |
 | 13:10-13:20 | Jacob Parker | Investigation into the tissue specific pathology of the autosomal recessive cerebellar ataxias | Chair: Matt Parker |
 | 13:20-13:40 | Jamie Ellingford | Uncovering pathogenic non-coding genomic variation through the UK 100,000 genomes project | |
-| 13:40-13:50 | Georgette Tanner | Simulation of Heterogeneous Tumour Genomes with HeteroGenesis and In Silico Whole Exome Sequencing | |
+| 13:40-13:50 | Georgette Tanner | [Simulation of Heterogeneous Tumour Genomes with HeteroGenesis and In Silico Whole Exome Sequencing](https://drive.google.com/file/d/1CRstWVidpk49YKYRjcWXRxZrK3xrTh1O/view?usp=sharing) | |
 | 13:50-14:20 | Niall Beard | Elixr TeSS | |
 | 14:20-14:30 | All | Discussion: Establishing a Northern Training Network | |
 | 14:30-15:00 | All | Coffee | |
