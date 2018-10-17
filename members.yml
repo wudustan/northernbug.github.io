@@ -107,4 +107,12 @@
   institute: Northern Institute for Cancer Research
   email: yura.grabovska@newcastle.ac.uk
   interests: Cancer, Microarrays, RNA-Seq, WGS, WES, Machine learning, Unsupervised clustering
+  
+  
+- name: Krzysztof Poterlowicz
+  github: kpoterlowicz
+  institute: University of Bradford
+  email: k.poterlowicz1@bradford.ac.uk
+  interests: Genomics, Epigenomics, Transcriptomics, Galaxy platform, software development, Machine learning, skin 
+  
 
